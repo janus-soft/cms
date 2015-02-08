@@ -1,0 +1,28 @@
+{
+    "name": "yanous/core",
+    "authors": [
+        {
+            "name": "Ramin Mousavi",
+            "email": "ramin.mousavy@gmail.com"
+        }
+    ],
+	
+	"minimum-stability": "dev",
+	
+    "require": {
+		"php": ">=5.4.0",
+		"fxp/composer-asset-plugin": "1.0.0",
+		"yiisoft/yii2": "*"	
+    },
+	
+	"config": {
+        "vendor-dir": "app/vendor"
+    },
+	
+	"extra": {
+        "asset-installer-paths": {
+            "npm-asset-library": "app/vendor/npm",
+            "bower-asset-library": "app/vendor/bower"
+        }
+    }
+}
