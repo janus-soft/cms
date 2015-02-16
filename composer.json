@@ -26,7 +26,7 @@
 		{ "type": "vcs", "url":  "https://janus-soft@bitbucket.org/januscms/module-translator.git" },
 		{ "type": "vcs", "url":  "https://janus-soft@bitbucket.org/januscms/module-installer.git" },
 		{ "type": "vcs", "url":  "https://janus-soft@bitbucket.org/januscms/module-user.git" },	
-		{ "type": "vcs", "url":  "https://janus-soft@bitbucket.org/januscms/extension-treeview.git" },	
+		{ "type": "vcs", "url":  "https://janus-soft@bitbucket.org/januscms/extension-treeview.git" }
     ],
 	
 	"config": {
