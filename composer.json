@@ -12,8 +12,23 @@
     "require": {
 		"php": ">=5.4.0",
 		"fxp/composer-asset-plugin": "1.0.0",
-		"yiisoft/yii2": "*"	
+		"yiisoft/yii2": "*",
+		
+		"codeception/codeception": "*",
+		"yiisoft/yii2-codeception": "*",
+		
+        "yiisoft/yii2-debug": "*",
+		"yiisoft/yii2-gii": "*",
+		
+		"yanous/module-installer": "dev-master",
+		"yanous/translator": "dev-master"		
     },
+	
+	"repositories": [
+		{ "type": "vcs", "url":  "https://yanous_cms@bitbucket.org/yanous/module-translator.git" },
+		{ "type": "vcs", "url":  "https://yanous_cms@bitbucket.org/yanous/module-installer.git" },
+		{ "type": "vcs", "url":  "https://yanous_cms@bitbucket.org/yanous/extension-treeview.git" }		
+    ],
 	
 	"config": {
         "vendor-dir": "app/vendor"
