@@ -20,14 +20,14 @@
         "yiisoft/yii2-debug": "*",
 		"yiisoft/yii2-gii": "*",
 		
-		"yanous/module-installer": "dev-master",
-		"yanous/translator": "dev-master"		
+		"januscms/module-installer": "dev-master",
+		"januscms/module-translator": "dev-master"		
     },
 	
 	"repositories": [
-		{ "type": "vcs", "url":  "https://yanous_cms@bitbucket.org/yanous/module-translator.git" },
-		{ "type": "vcs", "url":  "https://yanous_cms@bitbucket.org/yanous/module-installer.git" },
-		{ "type": "vcs", "url":  "https://yanous_cms@bitbucket.org/yanous/extension-treeview.git" }		
+		{ "type": "vcs", "url":  "https://janus-soft@bitbucket.org/januscms/module-translator.git" },
+		{ "type": "vcs", "url":  "https://janus-soft@bitbucket.org/januscms/module-installer.git" },
+		{ "type": "vcs", "url":  "https://janus-soft@bitbucket.org/januscms/extension-treeview.git" }		
     ],
 	
 	"config": {
