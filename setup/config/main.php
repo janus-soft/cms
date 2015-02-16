@@ -1,10 +1,10 @@
 <?php
 
 return [
-    'id'					=> 'yanous-installer',
+    'id'					=> 'janus-installer',
     'basePath'				=> dirname(__DIR__) . '/../app/',
     'language'				=> 'en-US',
-	'controllerNamespace'	=> 'yanous\installer\controllers',
+	'controllerNamespace'	=> 'janus\installer\controllers',
 	
     'components'          => [  
 
@@ -24,6 +24,6 @@ return [
     ],
     
 	'modules' => [		
-		'installer'		=> 'yanous\installer\Module'
+		'installer'		=> 'janus\installer\Module'
 	]
 ];
