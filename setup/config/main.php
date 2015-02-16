@@ -24,6 +24,6 @@ return [
     ],
     
 	'modules' => [		
-		'installer'		=> 'yanous\installer\Module'		
+		'installer'		=> 'yanous\installer\Module'
 	]
 ];
