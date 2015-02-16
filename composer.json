@@ -20,8 +20,8 @@
         "yiisoft/yii2-debug": "*",
 		"yiisoft/yii2-gii": "*",
 		
-		"januscms/module-installer": "dev-master",
-		"januscms/module-translator": "dev-master"		
+		"januscms/installer": "dev-master",
+		"januscms/translator": "dev-master"		
     },
 	
 	"repositories": [
